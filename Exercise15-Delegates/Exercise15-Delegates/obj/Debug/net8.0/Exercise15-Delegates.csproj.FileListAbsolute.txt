@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\bin\Debug\net8.0\Exercise15-Delegates.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\bin\Debug\net8.0\Exercise15-Delegates.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\bin\Debug\net8.0\Exercise15-Delegates.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\bin\Debug\net8.0\Exercise15-Delegates.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\bin\Debug\net8.0\Exercise15-Delegates.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\Exercise15-Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\Exercise15-Delegates.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\Exercise15-Delegates.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\Exercise15-Delegates.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\Exercise15-Delegates.sourcelink.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\Exercise15-Delegates.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\refint\Exercise15-Delegates.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\Exercise15-Delegates.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\Exercise15-Delegates.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise15-Delegates\Exercise15-Delegates\obj\Debug\net8.0\ref\Exercise15-Delegates.dll
