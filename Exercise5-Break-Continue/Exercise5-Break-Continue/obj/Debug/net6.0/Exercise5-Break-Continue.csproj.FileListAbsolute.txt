@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\bin\Debug\net6.0\Exercise5-Break-Continue.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\bin\Debug\net6.0\Exercise5-Break-Continue.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\bin\Debug\net6.0\Exercise5-Break-Continue.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\bin\Debug\net6.0\Exercise5-Break-Continue.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\bin\Debug\net6.0\Exercise5-Break-Continue.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\Exercise5-Break-Continue.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\Exercise5-Break-Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\Exercise5-Break-Continue.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\Exercise5-Break-Continue.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\Exercise5-Break-Continue.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\Exercise5-Break-Continue.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\refint\Exercise5-Break-Continue.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\Exercise5-Break-Continue.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\Exercise5-Break-Continue.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise5-Break-Continue\Exercise5-Break-Continue\obj\Debug\net6.0\ref\Exercise5-Break-Continue.dll

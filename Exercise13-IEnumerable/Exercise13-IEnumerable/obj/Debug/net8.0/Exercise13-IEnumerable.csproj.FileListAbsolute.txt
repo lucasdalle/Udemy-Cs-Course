@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\bin\Debug\net8.0\Exercise13-IEnumerable.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\bin\Debug\net8.0\Exercise13-IEnumerable.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\bin\Debug\net8.0\Exercise13-IEnumerable.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\bin\Debug\net8.0\Exercise13-IEnumerable.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\bin\Debug\net8.0\Exercise13-IEnumerable.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\obj\Debug\net8.0\Exercise13-IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\obj\Debug\net8.0\Exercise13-IEnumerable.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\obj\Debug\net8.0\Exercise13-IEnumerable.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\obj\Debug\net8.0\Exercise13-IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\obj\Debug\net8.0\Exercise13-IEnumerable.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\obj\Debug\net8.0\refint\Exercise13-IEnumerable.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\obj\Debug\net8.0\Exercise13-IEnumerable.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\obj\Debug\net8.0\Exercise13-IEnumerable.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise13-IEnumerable\Exercise13-IEnumerable\obj\Debug\net8.0\ref\Exercise13-IEnumerable.dll

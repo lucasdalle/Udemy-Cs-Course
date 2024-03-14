@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\bin\Debug\net8.0\Exercise12-Inheritances&Interfaces.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\bin\Debug\net8.0\Exercise12-Inheritances&Interfaces.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\bin\Debug\net8.0\Exercise12-Inheritances&Interfaces.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\bin\Debug\net8.0\Exercise12-Inheritances&Interfaces.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\bin\Debug\net8.0\Exercise12-Inheritances&Interfaces.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\obj\Debug\net8.0\Exercise12-Inheritances&Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\obj\Debug\net8.0\Exercise12-Inheritances&Interfaces.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\obj\Debug\net8.0\Exercise12-Inheritances&Interfaces.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\obj\Debug\net8.0\Exercise12-Inheritances&Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\obj\Debug\net8.0\Exercise12-Inheritances&Interfaces.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\obj\Debug\net8.0\refint\Exercise12-Inheritances&Interfaces.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\obj\Debug\net8.0\Exercise12-Inheritances&Interfaces.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\obj\Debug\net8.0\Exercise12-Inheritances&Interfaces.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise12-Inheritances&Interfaces\Exercise12-Inheritances&Interfaces\obj\Debug\net8.0\ref\Exercise12-Inheritances&Interfaces.dll

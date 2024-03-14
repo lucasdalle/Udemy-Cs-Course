@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\bin\Debug\net6.0\Exercise3-Nested-If.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\bin\Debug\net6.0\Exercise3-Nested-If.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\bin\Debug\net6.0\Exercise3-Nested-If.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\bin\Debug\net6.0\Exercise3-Nested-If.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\bin\Debug\net6.0\Exercise3-Nested-If.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\Exercise3-Nested-If.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\Exercise3-Nested-If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\Exercise3-Nested-If.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\Exercise3-Nested-If.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\Exercise3-Nested-If.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\Exercise3-Nested-If.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\refint\Exercise3-Nested-If.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\Exercise3-Nested-If.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\Exercise3-Nested-If.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise3-Nested-If\Exercise3-Nested-If\obj\Debug\net6.0\ref\Exercise3-Nested-If.dll

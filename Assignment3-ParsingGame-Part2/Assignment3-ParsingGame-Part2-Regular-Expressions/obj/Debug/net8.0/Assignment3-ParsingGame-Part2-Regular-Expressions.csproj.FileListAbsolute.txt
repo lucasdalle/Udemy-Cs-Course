@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\bin\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\bin\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\bin\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\bin\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\bin\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\obj\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\obj\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\obj\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\obj\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\obj\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\obj\Debug\net8.0\refint\Assignment3-ParsingGame-Part2-Regular-Expressions.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\obj\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\obj\Debug\net8.0\Assignment3-ParsingGame-Part2-Regular-Expressions.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment3-ParsingGame-Part2\Assignment3-ParsingGame-Part2-Regular-Expressions\obj\Debug\net8.0\ref\Assignment3-ParsingGame-Part2-Regular-Expressions.dll

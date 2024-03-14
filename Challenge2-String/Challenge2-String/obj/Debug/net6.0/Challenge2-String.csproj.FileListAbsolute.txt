@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\bin\Debug\net6.0\Challenge2-String.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\bin\Debug\net6.0\Challenge2-String.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\bin\Debug\net6.0\Challenge2-String.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\bin\Debug\net6.0\Challenge2-String.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\bin\Debug\net6.0\Challenge2-String.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\Challenge2-String.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\Challenge2-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\Challenge2-String.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\Challenge2-String.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\Challenge2-String.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\Challenge2-String.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\refint\Challenge2-String.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\Challenge2-String.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\Challenge2-String.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Challenge2-String\Challenge2-String\obj\Debug\net6.0\ref\Challenge2-String.dll

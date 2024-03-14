@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\bin\Debug\net6.0\Exercise9-TicTacToe-Winner.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\bin\Debug\net6.0\Exercise9-TicTacToe-Winner.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\bin\Debug\net6.0\Exercise9-TicTacToe-Winner.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\bin\Debug\net6.0\Exercise9-TicTacToe-Winner.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\bin\Debug\net6.0\Exercise9-TicTacToe-Winner.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\Exercise9-TicTacToe-Winner.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\Exercise9-TicTacToe-Winner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\Exercise9-TicTacToe-Winner.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\Exercise9-TicTacToe-Winner.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\Exercise9-TicTacToe-Winner.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\Exercise9-TicTacToe-Winner.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\refint\Exercise9-TicTacToe-Winner.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\Exercise9-TicTacToe-Winner.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\Exercise9-TicTacToe-Winner.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise9-TicTacToe-Winner\Exercise9-TicTacToe-Winner\obj\Debug\net6.0\ref\Exercise9-TicTacToe-Winner.dll

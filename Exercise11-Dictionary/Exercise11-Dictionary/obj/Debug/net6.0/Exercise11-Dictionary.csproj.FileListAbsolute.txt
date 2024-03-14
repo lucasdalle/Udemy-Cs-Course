@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\Exercise11-Dictionary.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\Exercise11-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\Exercise11-Dictionary.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\Exercise11-Dictionary.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\Exercise11-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\bin\Debug\net6.0\Exercise11-Dictionary.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\bin\Debug\net6.0\Exercise11-Dictionary.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\bin\Debug\net6.0\Exercise11-Dictionary.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\bin\Debug\net6.0\Exercise11-Dictionary.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\bin\Debug\net6.0\Exercise11-Dictionary.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\Exercise11-Dictionary.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\refint\Exercise11-Dictionary.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\Exercise11-Dictionary.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\Exercise11-Dictionary.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise11-Dictionary\Exercise11-Dictionary\obj\Debug\net6.0\ref\Exercise11-Dictionary.dll

@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\bin\Debug\net6.0\Assignment1-Parsing.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\bin\Debug\net6.0\Assignment1-Parsing.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\bin\Debug\net6.0\Assignment1-Parsing.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\bin\Debug\net6.0\Assignment1-Parsing.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\bin\Debug\net6.0\Assignment1-Parsing.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\Assignment1-Parsing.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\Assignment1-Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\Assignment1-Parsing.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\Assignment1-Parsing.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\Assignment1-Parsing.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\Assignment1-Parsing.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\refint\Assignment1-Parsing.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\Assignment1-Parsing.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\Assignment1-Parsing.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Assignment1-Parsing\Assignment1-Parsing\obj\Debug\net6.0\ref\Assignment1-Parsing.dll

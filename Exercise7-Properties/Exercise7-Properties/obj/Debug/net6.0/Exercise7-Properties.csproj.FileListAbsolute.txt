@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\bin\Debug\net6.0\Exercise7-Properties.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\bin\Debug\net6.0\Exercise7-Properties.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\bin\Debug\net6.0\Exercise7-Properties.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\bin\Debug\net6.0\Exercise7-Properties.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\bin\Debug\net6.0\Exercise7-Properties.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\Exercise7-Properties.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\Exercise7-Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\Exercise7-Properties.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\Exercise7-Properties.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\Exercise7-Properties.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\Exercise7-Properties.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\refint\Exercise7-Properties.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\Exercise7-Properties.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\Exercise7-Properties.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise7-Properties\Exercise7-Properties\obj\Debug\net6.0\ref\Exercise7-Properties.dll

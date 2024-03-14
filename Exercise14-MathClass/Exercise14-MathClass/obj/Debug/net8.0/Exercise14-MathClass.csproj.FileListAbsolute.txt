@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\bin\Debug\net8.0\Exercise14-MathClass.exe
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\bin\Debug\net8.0\Exercise14-MathClass.deps.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\bin\Debug\net8.0\Exercise14-MathClass.runtimeconfig.json
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\bin\Debug\net8.0\Exercise14-MathClass.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\bin\Debug\net8.0\Exercise14-MathClass.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\obj\Debug\net8.0\Exercise14-MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\obj\Debug\net8.0\Exercise14-MathClass.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\obj\Debug\net8.0\Exercise14-MathClass.AssemblyInfo.cs
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\obj\Debug\net8.0\Exercise14-MathClass.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\obj\Debug\net8.0\Exercise14-MathClass.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\obj\Debug\net8.0\refint\Exercise14-MathClass.dll
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\obj\Debug\net8.0\Exercise14-MathClass.pdb
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\obj\Debug\net8.0\Exercise14-MathClass.genruntimeconfig.cache
+C:\Users\lucas\source\repos\C#_Udemy_Course\Exercise14-MathClass\Exercise14-MathClass\obj\Debug\net8.0\ref\Exercise14-MathClass.dll
